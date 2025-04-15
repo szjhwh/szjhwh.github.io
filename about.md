@@ -7,7 +7,7 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  关于
+  zh-Hans : &ZH_HANS  联系我们
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
@@ -26,49 +26,50 @@ titles:
 key: page-about
 ---
 
-![TeXt Theme](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/TeXt-home.jpg)
+## 微信联系
 
-TeXt is a super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc. Similar to iOS 11 style, it has large and prominent titles, round buttons and cards.
+<br/>
+<img class="image" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/wecaht.jpg"/>
+<br/>
 
-```javascript
-(() => console.log('Hello, World!'))();
-```
+## 关注抖音
 
-## Features
+<br/>
+<img class="image" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/douyin.jpg"/>
+<br/>
 
-- Responsive
-- Semantic HTML
-- Skins
-- Highlight Theme
-- Internationalization
-- Search
-- Table of contents
-- Authors
-- Additional styles (alert, tag, image, icon, button, grid, etc)
-- Extensions (audios, videos, slides, demos)
-- Markdown enhancements ([MathJax](https://www.mathjax.org/), [mermaid](https://mermaidjs.github.io/), [chartjs](http://www.chartjs.org/))
-- Sharing ([AddToAny](https://www.addtoany.com/), [AddThis](https://www.addthis.com/))
-- Comments ([Disqus](https://disqus.com/), [Gitalk](https://gitalk.github.io/), [Valine](https://valine.js.org/en/))
-- Pageview ([LeanCloud](https://leancloud.cn/))
-- Analytics ([Google Analytics](https://analytics.google.com/analytics/web/))
-- RSS ([jekyll-feed](https://github.com/jekyll/jekyll-feed))
+## 关注视频号
 
-## Skins
+<br/>
+<img class="image" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/shipinhao.jpg"/>
+<br/>
 
-TeXt has 6 built-in skins, you can also set up your own skin.
+## 关注知乎
 
-| `default` | `dark` | `forest` |
-| --- |  --- | --- |
-| ![Default](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_default.jpg) | ![Dark](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_dark.jpg) | ![Forest](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_forest.jpg) |
+<br/>
+<img class="image" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/zhihu.png"/>
+<br/>
 
-| `ocean` | `chocolate` | `orange` |
-| --- |  --- | --- |
-| ![Ocean](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_ocean.jpg) | ![Chocolate](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_chocolate.jpg) | ![Orange](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/skins_orange.jpg) |
+## 关注小红书
 
-### Highlight Theme
+<br/>
+<img class="image" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/xiaohognshu.jpg"/>
+<br/>
 
-TeXt use [Tomorrow](https://github.com/chriskempson/tomorrow-theme) as the highlight theme.
+## 关注头条
 
-| `tomorrow` | `tomorrow-night` | `tomorrow-night-eighties` | `tomorrow-night-blue` | `tomorrow-night-bright` |
-| --- |  --- | --- | --- |  --- |
-| ![Tomorrow](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow.png) | ![Tomorrow Night](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night.png) | ![Tomorrow Night Eighties](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-eighties.png) | ![Tomorrow Night Blue](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-blue.png) | ![Tomorrow Night Bright](https://raw.githubusercontent.com/kitian616/jekyll-TeXt-theme/master/screenshots/highlight_tomorrow-night-bright.png) |
+<br/>
+<img class="image" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/toutiao.jpg"/>
+<br/>
+
+## 关注百家号
+
+<br/>
+<img class="image" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/baijiahao.jpg"/>
+<br/>
+
+## 关注微博
+
+<br/>
+<img class="image" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/weibo.jpg"/>
+<br/>
