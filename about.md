@@ -46,6 +46,12 @@ description: 聚禾文化 聚禾招商 曹公子 起盘策划 商业模式 全�
 <img class="image" alt="曹公子" title="聚禾招商" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/about/shipinhao.jpg"/>
 <br/>
 
+## 关注公众号
+
+<br/>
+<img class="image" alt="曹公子" title="聚禾招商" style="width: 100%; height: 100%; object-fit: cover;" src="/assets/resource/official/logo.png"/>
+<br/>
+
 ## 关注知乎
 
 <br/>
